@@ -20,6 +20,7 @@ namespace TestConsoleApp
         static void Main(string[] args)
         {
             _configuration = GetSettings();//
+            //first changes
 
             _diContainer = GetDiContainer(_configuration);
 
