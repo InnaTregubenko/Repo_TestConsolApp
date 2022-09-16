@@ -33,6 +33,7 @@ namespace TestConsoleApp
             }
             Console.WriteLine(result);
             Console.WriteLine("second");
+            Console.WriteLine("third");
             Console.ReadKey();//some
         }
 
