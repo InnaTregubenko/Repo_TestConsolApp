@@ -32,6 +32,7 @@ namespace TestConsoleApp
                 result = _service.GetData();
             }
             Console.WriteLine(result);
+            Console.WriteLine("second");
             Console.ReadKey();//some
         }
 
